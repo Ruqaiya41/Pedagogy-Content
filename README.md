@@ -1,6 +1,6 @@
 ### Pedagogy Content
 
-This folder contains educational materials and resources related to pedagogical methods and practices. It includes content files for various teaching strategies and techniques, such as:
+This folder contains educational materials and resources related to pedagogical methods and practices. It includes content files for various topics, such as:
 
 - **Artificial Neural Networks (ANN)**
 - **Convolutional Neural Networks (CNN)**
